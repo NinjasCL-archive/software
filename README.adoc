@@ -57,7 +57,7 @@ La semana esta dividida en seis días de _Lunes_ a _Sábado_. Con catorce claves
 
 ### Asignaturas
 
-Cada asignatura es asignada con periodo lectivo de mínimo de una clave por semana y máximo cuatro claves por semana. Una asignatura puede tener máximo dos claves lectivas por día. Adicionalmente cada asignatura debe tener un periodo de ejercicios práctico o de estudio aplicado de mínimo una clave y máximo dos claves por semana.
+Cada asignatura tiene un periodo lectivo de mínimo de una clave por semana y máximo cuatro claves por semana. Una asignatura puede tener máximo dos claves lectivas por día. Adicionalmente cada asignatura debe tener un periodo de ejercicios práctico o de estudio aplicado de mínimo una clave y máximo dos claves por semana.
 
 El máximo de asignaturas permitido por semestre son siete y el mínimo recomendado son tres. Se debe considerar también un periodo de estudio de materiales adicionales y proyectos complementarios dentro de las claves horarias semanales para profundizar los temas.
 
