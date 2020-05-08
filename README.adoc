@@ -15,6 +15,12 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/[image:https://i.creativecommon
 
 toc::[]
 
+## ¿Qué es el auto estudio?
+
+El Aprendizaje Autónomo es un proceso en que el estudiante autorregula su aprendizaje y toma conciencia de sus procesos cognitivos y socioafectivos (Crispín, et al., 2011). 
+
+Mas detalles en el artículo de http://abierta.pucv.cl/wordpress/index.php/2018/04/13/autonomia-en-el-aprendizaje/[Autonomía en el Aprendizaje].
+
 ## Calendarización de estudio
 
 Para poder agendar los temas a estudiar se puede utilizar la siguiente estructura.
