@@ -8,3 +8,4 @@ Esta materia es de primer semestre. Está diseñada para sentar las bases para m
 - https://www.khanacademy.org/math/pre-algebra
 - https://www.khanacademy.org/math/algebra-basics
 - https://www.khanacademy.org/math/algebra
+- https://www.khanacademy.org/math/algebra-home/
