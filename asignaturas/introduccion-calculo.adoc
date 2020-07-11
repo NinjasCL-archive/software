@@ -12,6 +12,14 @@ necesarios para cursar materias más avanzadas como física y matemáticas discr
 - Trigonometría
 - Plano Cartesiano
 
+## Horas recomendadas
+
+Total 6 horas semanales.
+
+- 2 horas semanales de clases teóricas.
+- 2 horas semanales de reforzamiento.
+- 2 horas semanales de ejercitación.
+
 ## Recomendaciones
 
 Una buena base se puede encontrar en libros de Pre-Universitarios como _Cpech_, _PDV_, entre otros.
