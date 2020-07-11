@@ -1,0 +1,22 @@
+# Introducción al Cálculo
+
+Esta materia es de primer semestre. El objetivo es aprender las bases y repasar los conceptos matemáticos 
+necesarios para cursar materias más avanzadas como física y matemáticas discretas.
+
+## Conceptos Importantes
+
+- Logarítmos
+- Polinomios
+- Exponenciales
+- Ecuaciones
+- Trigonometría
+- Plano Cartesiano
+
+## Recomendaciones
+
+Una buena base se puede encontrar en libros de Pre-Universitarios como _Cpech_, _PDV_, entre otros.
+
+## Material Online
+
+- https://www.khanacademy.org/math/precalculus
+- https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/
