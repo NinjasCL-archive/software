@@ -2,6 +2,17 @@
 
 Esta materia es de primer semestre. Está diseñada para sentar las bases para materias más avanzadas como Álgebra Lineal y Matemáticas Discretas.
 
+## Horas recomendadas
+
+Total 6 horas semanales.
+
+- 2 horas semanales de clases teóricas.
+- 2 horas semanales de reforzamiento.
+- 2 horas semanales de ejercitación.
+
+## Recomendaciones
+
+Una buena base se puede encontrar en libros de Pre-Universitarios como _Cpech_, _PDV_, entre otros.
 
 ## Recursos Online
 
