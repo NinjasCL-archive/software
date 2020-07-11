@@ -1,0 +1,10 @@
+# Álgebra
+
+Esta materia es de primer semestre. Está diseñada para sentar las bases para materias más avanzadas como Álgebra Lineal y Matemáticas Discretas.
+
+
+## Recursos Online
+
+- https://www.khanacademy.org/math/pre-algebra
+- https://www.khanacademy.org/math/algebra-basics
+- https://www.khanacademy.org/math/algebra
