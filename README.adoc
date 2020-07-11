@@ -72,3 +72,5 @@ Cada asignatura tiene un periodo lectivo de mínimo de una clave por semana y m�
 
 El máximo de asignaturas permitido por semestre son siete y el mínimo recomendado son tres. Se debe considerar también un periodo de estudio de materiales adicionales y proyectos complementarios dentro de las claves horarias semanales para profundizar los temas.
 
+#### Ejemplo
+image:https://user-images.githubusercontent.com/292738/87228757-38ce8200-c371-11ea-9fac-f3d9f2c90865.png[]
