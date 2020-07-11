@@ -5,7 +5,7 @@
 
 # Guía de auto estudio para la carrera de Ingeniería en Software
 
-En este pequeño documento se detallarán temas para aprender en la carrera de _Ingeniería en Software_, basado en la link:uvm-software-2006.pdf{ext-relative}[malla curricular] de la https://www.uvm.cl[Universidad de Viña del Mar] y el https://www.computer.org/education/bodies-of-knowledge/software-engineering[Software Engineering Body of Knowledge (SWEBOK)].
+En este pequeño documento se detallarán temas para aprender en la carrera de _Ingeniería en Software_, basado en la link:uvm-software-2006.pdf{ext-relative}[malla curricular] de la https://www.uvm.cl[Universidad de Viña del Mar] y el https://www.computer.org/education/bodies-of-knowledge/software-engineering[Software Engineering Body of Knowledge (SWEBOK)]. Se ha añadido también la link:uvm-ingenieria-civil-informatica-2020.pdf{ext-relative}[malla curricular] de la carrera de _Ingeniería Civil Informática_ del año 2020 de la misma universidad, como referencia y complemento.
 
 Escrito por https://ninjas.cl[Camilo Castro] y https://github.com/ninjascl/software/graphs/contributors[colaboradores]. Para https://ninjas.cl[Ninjas.cl].
 
