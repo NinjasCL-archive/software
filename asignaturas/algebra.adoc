@@ -20,3 +20,7 @@ Una buena base se puede encontrar en libros de Pre-Universitarios como _Cpech_, 
 - https://www.khanacademy.org/math/algebra-basics
 - https://www.khanacademy.org/math/algebra
 - https://www.khanacademy.org/math/algebra-home/
+
+## SWEBOK
+
+Leer capítulo 14 _"Mathematical Foundations"_.
