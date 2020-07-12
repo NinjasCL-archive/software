@@ -1,0 +1,25 @@
+# Inglés III
+
+El idioma inglés es indispensable para carreras relacionadas a la tecnología. Abrirá muchas puertas tanto nacionales como internacionales. 
+Países como Australia, Nueva Zelanda, Canadá, Estados Unidos, entre otros, hablan este idioma y es necesario para trabajar en una empresa internacional.
+
+Tradicionalmente existen dos pruebas para reconocer el nivel de Inglés.
+https://www.ets.org/toefl[_TOEFL_] e https://www.ielts.org/what-is-ielts/ielts-introduction[_IELTS_].
+
+La recomendación es seguir uno de esos programas y obtener una certificación en Inglés.
+
+## Recomendaciones
+
+- Inglés I: Enfocado a _listening_ and _speaking_.
+- Inglés II: Enfocado a _reading_ and _writing_.
+- *Inglés III*: Enfocado a _formal presentations_, _technical reading and writing_ (Papers).
+
+### Tips para Aprender un Idioma
+
+- Intenta cambiar todo tu entorno a ese idioma: Llamar las cosas por su nombre en el idioma, escuchar música y películas (con subtítulos en el idioma).
+- Usa https://apps.ankiweb.net/[Tarjetas Anki] para ayudarte a aprender nuevos conceptos.
+- Busca un grupo de personas para practicar constantemente.
+
+### Libros Recomendados
+
+- https://www.amazon.com/Aprende-idioma-Psicolog%C3%ADa-Autoayuda-Spanish-ebook/dp/B006YO0O1G[Aprende un Idioma en 7 Días - Ramón Campayo].
