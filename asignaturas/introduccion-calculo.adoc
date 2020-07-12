@@ -11,6 +11,7 @@ necesarios para cursar materias más avanzadas como física y matemáticas discr
 - Ecuaciones
 - Trigonometría
 - Plano Cartesiano
+- Teoría de Conjuntos
 
 ## Horas recomendadas
 
@@ -28,3 +29,7 @@ Una buena base se puede encontrar en libros de Pre-Universitarios como _Cpech_, 
 
 - https://www.khanacademy.org/math/precalculus
 - https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/
+
+## SWEBOK
+
+Leer capítulo 14 _"Mathematical Foundations"_.
