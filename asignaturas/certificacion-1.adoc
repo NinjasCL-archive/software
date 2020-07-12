@@ -1,0 +1,39 @@
+# Certificación I
+
+Esta materia es de primer semestre. El objetivo de las materias de certificación es obtener alguna capacitación técnica 
+que permita obtener habilidades y conocimientos dignos de poner en el currículum, aumentando el nivel de empleabilidad
+y explorando nuevas áreas y tecnologías.
+
+## Conceptos Importantes
+
+Como se espera que el alumno todavía esta en formación de sus capacidades de programación y diseño de sistemas. Las certificaciones
+a estudiar estarán enfocadas en áreas más generales. Se recomienda seguir algún curso de Coursera, Udemy, Otec o similar el cual al finalizar
+entregue un certificado que puede ser usado en LinkedIn o similar. La duración de la certificación no debe superar los 3 meses.
+
+## Horas recomendadas
+
+Total 4 horas semanales.
+
+- 2 horas semanales de clases teóricas.
+- 2 horas semanales de ejercitación.
+
+## Recomendaciones
+
+- https://www.lpi.org/es/our-certifications/summary-of-certifications[Certificación Linux LPIC-1]: 
+Permite certificarse en áreas de administración de servidores, configuración e instalación de sistemas Linux.
+
+- https://www.scrumalliance.org/get-certified/developer-track/certified-scrum-developer[Scrum Certified Developer]:
+Permite certificarse como desarrollador conocedor de las técnicas de Scrum para la gestión de proyectos ágiles.
+
+- https://www.microsoft.com/en-us/learning/mos-certification.aspx[Microsoft Office Specialist Certification]:
+Permite certificar habilidades en ofimática básica como _Word_, _Excel_, _Power Point_ y _Access_. Herramientas utilizadas
+ampliamente en las empresas. Se recomienda énfasis en _Excel_ y _Word_.
+
+- https://en.wikipedia.org/wiki/Apple_certification_programs[Apple Certified Technician]: Certificación para la reparación
+y mantenimiento de hardware _Apple_ (MacOS, iPhone, iPad).
+
+- Armado, mantención y reparación de equipos computacionales: PC, Notebook y Móviles.
+- Instalación de redes y videocámaras.
+- Reparación y mantención de impresoras.
+- Elaboración de sitios web simples con HTML, CSS y JavaScript.
+- Emprendimiento.
