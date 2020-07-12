@@ -15,5 +15,5 @@ El siguiente es un orden propuesto para los temas de estudio.
 |link:introduccion-tic.adoc{ext-relative}[Introducción a las TIC] | -
 |link:introduccion-ingenieria.adoc{ext-relative}[Introducción a la Ingeniería] | -
 |link:ingenieria-y-comunicacion.adoc{ext-relative}[Ingeniería y Comunicación] | -
-|link:certificacion-i.adoc{ext-relative}[Certificación I] | -
+|link:certificacion-1.adoc{ext-relative}[Certificación I] | -
 |====
